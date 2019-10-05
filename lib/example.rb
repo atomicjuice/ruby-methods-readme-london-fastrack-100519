@@ -13,5 +13,5 @@ puts phrase
 puts phrase
 
 def greeting
-  puts 'Hello world'
+  puts 'Hello World'
 end
